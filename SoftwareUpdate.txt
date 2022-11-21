@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+Update Colab notebook for YOLOv8.1 (#8660)

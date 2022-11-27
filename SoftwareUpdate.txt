@@ -1,1 +1,1 @@
-Add missing single-line docstrings (#8362)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)

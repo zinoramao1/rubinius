@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Update OpenVINO INT8 export (#7515)

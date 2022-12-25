@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+fix export tensorrt with dynamic size

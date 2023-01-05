@@ -1,1 +1,1 @@
-Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)

@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)

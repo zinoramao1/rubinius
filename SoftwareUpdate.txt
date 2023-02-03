@@ -1,1 +1,1 @@
-Fix test_mlflow_keep_run_active() (#8868)
+Update CITATION.cff with cffinit corrections (#8658)

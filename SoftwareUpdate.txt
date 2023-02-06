@@ -1,1 +1,1 @@
-Update IoU capitalization (#8604)
+Improve Coral Edge TPU guide (#8160)

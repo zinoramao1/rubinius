@@ -1,1 +1,1 @@
-Explorer with LanceDB, Actions and Docs updates (#7487)
+ultralytics 8.0.231 use new pyproject.toml (#7185)

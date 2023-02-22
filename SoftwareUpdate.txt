@@ -1,1 +1,1 @@
-Try Apple M1 runners for Tests and Benchmarks CI (#8162)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)

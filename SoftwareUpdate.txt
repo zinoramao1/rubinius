@@ -1,1 +1,1 @@
-ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)

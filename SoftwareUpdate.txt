@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)

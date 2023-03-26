@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Add Amazon Sagemaker Docs integrations page (#7293)

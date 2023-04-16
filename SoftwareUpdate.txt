@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Clarify triton server boolean value (#8532)

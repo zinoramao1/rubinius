@@ -1,1 +1,1 @@
-Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)

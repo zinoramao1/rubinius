@@ -1,1 +1,1 @@
-ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
+ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)

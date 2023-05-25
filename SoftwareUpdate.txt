@@ -1,1 +1,1 @@
-Add missing single-line docstrings (#8362)
+New MLFLOW_KEEP_RUN_ACTIVE flag for enhanced MLflow run management (#8808)

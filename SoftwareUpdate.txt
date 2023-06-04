@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Fix OpenVINO links (#7930)

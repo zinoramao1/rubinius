@@ -1,1 +1,1 @@
-fix resume training
+fix for predicting with batch_size > 1 (#47)

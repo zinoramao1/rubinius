@@ -1,1 +1,1 @@
-Add OBB save_txt feature (#7450)
+Allow Annotator PIL.Image inputs (#8397)

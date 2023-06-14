@@ -1,1 +1,1 @@
-Add Neural Magic Docs integrations page (#7234)
+Expand Model method type hinting (#8279)

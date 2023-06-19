@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+Allow Annotator PIL.Image inputs (#8397)

@@ -1,1 +1,1 @@
-Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
+Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other

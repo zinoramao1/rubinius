@@ -1,1 +1,1 @@
-ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode

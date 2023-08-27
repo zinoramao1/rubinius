@@ -1,1 +1,1 @@
-Add TensorRT Docs Integrations Page (#7855)
+* fix for predicting with batch_size > 1

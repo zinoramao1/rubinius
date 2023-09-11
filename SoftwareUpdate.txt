@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+Fix docker.yaml double-quote version bug (#7452)

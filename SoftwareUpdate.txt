@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)

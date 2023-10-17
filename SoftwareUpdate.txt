@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Update Twitter icon in Docs (#7711)

@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Disable Tab Limit - Disables the default tab limit (varies giữa devices)

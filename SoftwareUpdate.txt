@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Add type hinting to explorer.py (#7388)

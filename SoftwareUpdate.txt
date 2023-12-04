@@ -1,1 +1,1 @@
-ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)

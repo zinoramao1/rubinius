@@ -1,1 +1,1 @@
-OBB: update metrics (#7593)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)

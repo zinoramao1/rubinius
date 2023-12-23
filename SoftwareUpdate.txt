@@ -1,1 +1,1 @@
-Cleanup Docs languages (#7865)
+Add visuals in guides/distance-calculation.md (#7876)

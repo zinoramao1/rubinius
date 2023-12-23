@@ -1,1 +1,1 @@
-Mkdocs updates (#8008)
+Cleanup Docs languages (#7865)

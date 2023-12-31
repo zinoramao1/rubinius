@@ -1,1 +1,1 @@
-example Google Colab
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)

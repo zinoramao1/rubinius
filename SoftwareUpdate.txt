@@ -1,1 +1,1 @@
-ultralytics 8.1.33 fix HUB model checks (#9153)
+Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)

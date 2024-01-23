@@ -1,1 +1,1 @@
-Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
+Update neural-magic.md (#7347)

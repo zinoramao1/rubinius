@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Fix Yolo 8.0.206 scale bug (#7821)

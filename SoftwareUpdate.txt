@@ -1,1 +1,1 @@
-Fix Yolo 8.0.206 scale bug (#7821)
+Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)

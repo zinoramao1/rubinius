@@ -1,1 +1,1 @@
-Explorer Cleanup (#7364)
+Optimize function calls to method calls (#8507)

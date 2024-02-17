@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+Pass callbacks to validator (#7320)

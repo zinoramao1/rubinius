@@ -1,1 +1,1 @@
-Add TensorBoard Docs integrations page (#7248)
+Add missing single-line docstrings (#8362)

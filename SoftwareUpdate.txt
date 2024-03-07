@@ -1,1 +1,1 @@
-Add brain-tumor dataset docs page (#9041)
+Fix docs links (#7096)

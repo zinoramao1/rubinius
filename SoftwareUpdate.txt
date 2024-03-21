@@ -1,1 +1,1 @@
-fix resume training
+Update IoU capitalization (#8604)

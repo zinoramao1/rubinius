@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)

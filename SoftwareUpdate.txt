@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)

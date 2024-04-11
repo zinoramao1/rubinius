@@ -1,1 +1,1 @@
-fix print val map
+Update Twitter icon in Docs (#7711)

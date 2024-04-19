@@ -1,1 +1,1 @@
-Move Google Drive to slow tests (#8163)
+Move Explorer tests to scheduled CI (#8305)

@@ -1,1 +1,1 @@
-ultralytics 8.1.33 fix HUB model checks (#9153)
+Fix device counting method to account for double-digit device IDs (#8502)

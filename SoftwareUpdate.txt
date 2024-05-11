@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+Fix Multi-GPU resume bug (#7328)

@@ -1,1 +1,1 @@
-Update format.yml to pull_request_target (#7460)
+OBB: Fix plot_images (#7592)

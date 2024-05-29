@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
